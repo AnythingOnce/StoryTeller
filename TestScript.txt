@@ -1,0 +1,5 @@
+This is an example.
+Each line should have a delay.
+
+Paragraphs have a longer delay. When we meet certain criteria, such as a comma, the text should be spoken with a break.
+Hello World.
